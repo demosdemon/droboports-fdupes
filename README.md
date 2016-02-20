@@ -7,7 +7,7 @@ Note: The scripts will download the master branch of fdupes from https://github.
 
 ## I just want to install the DroboApp, what do I do?
 
-Check the [releases](https://github.com/droboports/git/releases) page. If there are no releases available, then you have to compile.
+Check the [releases](https://github.com/demosdemon/droboports-fdupes/releases) page. If there are no releases available, then you have to compile.
 
 ## How to compile
 
